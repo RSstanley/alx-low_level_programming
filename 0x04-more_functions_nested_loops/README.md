@@ -7,7 +7,7 @@
 - What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
 - What are header files and how to to use them with #include
 
-## > Requirements 8-)
+##> Requirements
 
 ## General
 - Allowed editors: vi, vim, emacs
