@@ -7,7 +7,9 @@
 - What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
 - What are header files and how to to use them with #include
 
-### [Requirements8-)](https://github.com/markdown-it/markdown-it-emoji)
+### [Requirements]
+
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 ## General
 - Allowed editors: vi, vim, emacs
