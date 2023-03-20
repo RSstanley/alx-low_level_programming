@@ -18,8 +18,8 @@ In this project i learnt and practiced;
 -  If the function fails - returns NULL.
 - 2-calloc.c: C function that returns a pointer to a newly-allocated space in memory for an array, using malloc.
 
--  Allocates memory for an array of nmemb elements of size bytes each.
--  The memory is set to zero.
+-  :Allocates memory for an array of nmemb elements of size bytes each.
+-  : The memory is set to zero.
 -  If nmemb = 0, size = 0, or the function fail - returns NULL.
 - 3-array_range.c: C function that returns a pointer to a newly-allocated space in memory containing an array of integers.
 
